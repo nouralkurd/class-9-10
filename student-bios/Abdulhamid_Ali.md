@@ -1,6 +1,14 @@
 ![myphoto](https://avatars1.githubusercontent.com/u/57312937?s=460&u=185e52e42d0dec66fc44c0264774c060301710e6&v=4)
 [**my github**](https://github.com/ali1996-sy)
 
+## hobbies
+===========
+| hobbie    | type        | 
+| ------------- |:-------------:| 
+| sport    | foorball | 
+| music    | classic    |   
+| cooking| arabic food       | 
+
 ## skills 
 
 * Php
@@ -14,10 +22,4 @@
 3- french
 4- kurdish
 
-hobbies
-===========
-| hobbie    | type        | 
-| ------------- |:-------------:| 
-| sport    | foorball | 
-| music    | classic    |   
-| cooking| arabic food       |    
+   
