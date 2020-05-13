@@ -2,7 +2,7 @@
 [**my github**](https://github.com/ali1996-sy)
 
 ## hobbies
-===========
+
 | hobbie    | type        | 
 | ------------- |:-------------:| 
 | sport    | foorball | 
