@@ -16,7 +16,7 @@ My hobbies: :relaxed:
 - Traveling the world 
 
 You can reach me everytime on:
-* [GitHub](https://www.linkedin.com/in/miroslav-veljanoski-3019aa10a/)
-* [LinkedIn](https://github.com/miroslavveljanoski)
+* [GitHub](https://github.com/miroslavveljanoski)
+* [LinkedIn](https://www.linkedin.com/in/miroslav-veljanoski-3019aa10a/)
 
 > Be happy :four_leaf_clover: and take care for yourself, your loved ones and the :earth_africa:!  
