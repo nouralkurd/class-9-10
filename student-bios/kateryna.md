@@ -2,7 +2,8 @@
 My name is *Kateryna*, but you can call me *Katia*:kissing_heart:.
 I am Korean Ukrainian :ukraine:, who was born in Poland :poland:, but I have been living in Ukraine :yellow_heart: for the most part of my life.
 I am big fun of challenges, that is why I love moving around. I have been living in US, Spain, Poland and then...moved to Belgium :heartbeat:.
- ![photo](https://raw.githubusercontent.com/katerynakim/group-intro-example/master/Image%20from%20iOS.jpg)
+
+![image](https://user-images.githubusercontent.com/62487749/81972197-8acd8280-9622-11ea-88c7-ac444a5868a7.png)
 
 
 I speak: Russian :ru:, Ukrainian :ukraine:, Polish :poland:, English , and een beetje Nederlands :belgium: and also learning Chinese :cn:.
