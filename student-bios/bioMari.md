@@ -1,6 +1,6 @@
 # Mari van Wyk
 
-### [Follow Mari on Github](https://github.com/meowri/meowri.github.io.) 
+### [Follow Mari on Github](https://github.com/Meowri) 
 
 I am Mari and I come from South Africa.
 
